@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! 👋 Soy Juan Camilo Guerrero</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Camino+%3D+%22aprender%2C+crear%2C+mejorar%22" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=camino+%3D+%22aprender%2C+crear%2C+mejorar%22" alt="Typing animation" />
 </p>
+
 
 
 ---
