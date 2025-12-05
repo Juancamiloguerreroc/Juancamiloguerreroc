@@ -12,7 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/Estado-Aprendiendo%20%26%20Construyendo-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/Enfoque-Backend%20%26%20Automatización-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubicación-Bucaramanga%2C%20CO-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubicación-Cúcuta%2C%20CO-red?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 </div>
